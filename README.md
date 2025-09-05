@@ -1,2 +1,11 @@
 # Analisador-dados
-Análise de dados de alunos em Python: cadastro interativo, cálculo de média, mediana, desvio padrão e IMC.
+Projeto em Python para análise de dados de alunos.
+Permite cadastrar informações (nome, idade, peso e altura) e gera estatísticas como:
+
+Média de idades
+
+Mediana dos pesos
+
+Desvio padrão das alturas
+
+Maior e menor IMC (Índice de Massa Corporal)
